@@ -1,0 +1,2 @@
+# WeakAuras-Configs
+WeakAuras Configs
